@@ -1,0 +1,6 @@
+server:
+  port: 12333
+
+logging:
+  level:
+    root: debug
